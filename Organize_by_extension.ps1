@@ -1,5 +1,5 @@
 # Set the path to the folder where the files are located
-$folderPath = "C:\users\zarbam\downloads"
+$folderPath = "ADD YOUR PATH HERE"
 
 # Get all of the files in the folder
 $files = Get-ChildItem $folderPath
